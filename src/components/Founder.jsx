@@ -21,7 +21,7 @@ export default function Founder() {
           </div>
 
           {/* RIGHT TOP IMAGE */}
-          <div className="relative h-[376px]">
+          <div className="relative h-[600px]">
             <img
               src="/image1.png"
               alt="Leslie Martinich"
